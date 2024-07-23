@@ -8,8 +8,8 @@ schemaLoadJob:
 
 resources:
   limits:
-    cpu: 1200m
-    memory: 2048Mi
+    cpu: 1300m
+    memory: 3048Mi
   requests:
     cpu: 1000m
-    memory: 1500Mi
+    memory: 2500Mi
